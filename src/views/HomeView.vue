@@ -2,6 +2,7 @@
 import HeaderItem from '../components/HeaderItem.vue'
 import ContactUs from '../components/ContactUs.vue';
 import WriteUs from '../components/WriteUs.vue';
+import TheAddress from '../components/TheAddress.vue';
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import WriteUs from '../components/WriteUs.vue';
     <HeaderItem></HeaderItem>
     <ContactUs></ContactUs>
     <WriteUs></WriteUs>
+    <TheAddress></TheAddress>
   </main>
 </template>
