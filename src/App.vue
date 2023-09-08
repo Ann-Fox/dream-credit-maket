@@ -1,12 +1,13 @@
 <script setup>
-import HeaderItem from './components/HeaderItem.vue';
+// import HeaderItem from './components/HeaderItem.vue';
 
 // import { RouterLink, RouterView } from 'vue-router'
-// import HelloWorld from './components/HelloWorld.vue'
+// import HomeView from './components/HomeView.vue'
+import HomeView from './views/HomeView.vue'
 </script>
 
 <template>
- <HeaderItem></HeaderItem>
+ <HomeView></HomeView>
   <!-- <RouterView /> -->
 </template>
 

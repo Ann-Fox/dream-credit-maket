@@ -6,11 +6,17 @@
 }
 
 #app {
+max-width: 1920px;
+}
+
+.center {
   padding-left: calc(50% - 720px);
   padding-right: calc(50% - 720px);
 }
 
-
+li {
+  list-style: none;
+}
 
 a,
 .green {
